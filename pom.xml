@@ -40,7 +40,7 @@
         <dependency>
             <groupId>commons-net</groupId>
             <artifactId>commons-net</artifactId>
-            <version>1.4.1</version>
+            <version>3.9.0</version>
         </dependency>
         <!--dom4j依赖的jar包 -->
         <dependency>
